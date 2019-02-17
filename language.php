@@ -2,22 +2,6 @@
 
 	// IMPORTANT:
 	// ==========
-	// When translating, only translate the strings that are
-	// TO THE RIGHT OF the equal sign (=).
-	//
-	// Do NOT translate the strings between square brackets ([])
-	//
-	// Also, leave the text between < and > untranslated.
-	//
-	// =====================================================
-	// PLEASE NOTE:
-	// ============
-	// When a new version of AppGini is released, new strings
-	// might be added to the "defaultLang.php" file. To translate
-	// them, simply copy them to this file ("language.php") and 
-	// translate them here. Do NOT translate them directly in 
-	// the "defaultLang.php" file.
-	// =====================================================
 		
 
 
