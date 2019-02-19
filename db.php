@@ -3,7 +3,7 @@
 	/*
 		You can implement a new db driver in this file by uncommenting the line below
 		and replacing 'mssql' with the desired driver name, then adding cases for the
-		that driver in each function below ...
+		that driver in each function below 
 	*/
 	// define('DATABASE', 'mssql'); 
 
