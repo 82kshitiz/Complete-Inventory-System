@@ -4,11 +4,7 @@
 	$GLOBALS['page_title'] = $Translation['view or rebuild fields'];
 	include("{$currDir}/incHeader.php");
 
-	/*
-		$schema: [ tablename => [ fieldname => [ appgini => '...', 'db' => '...'], ... ], ... ]
-	*/
 
-	/* application schema as created in AppGini */
 	$schema = array(   
 		'invoices' => array(   
 			'id' => array('appgini' => 'INT unsigned not null primary key auto_increment '),
